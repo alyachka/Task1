@@ -1,0 +1,6 @@
+C:\Users\Галина\source\repos\Circle\Circle\bin\Release\Circle.exe.config
+C:\Users\Галина\source\repos\Circle\Circle\bin\Release\Circle.exe
+C:\Users\Галина\source\repos\Circle\Circle\bin\Release\Circle.pdb
+C:\Users\Галина\source\repos\Circle\Circle\obj\Release\Circle.csprojAssemblyReference.cache
+C:\Users\Галина\source\repos\Circle\Circle\obj\Release\Circle.exe
+C:\Users\Галина\source\repos\Circle\Circle\obj\Release\Circle.pdb
